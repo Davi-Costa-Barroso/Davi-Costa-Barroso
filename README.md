@@ -1,4 +1,4 @@
-## Olá, eu sou o Davi, atualmente estou estudando a biblioteca Matplotlib para a criação de graficos em Python.
+## Olá, seja Bem-vindo!
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-costa-barroso&layout=compact&langs_count=7&theme=dark"/>
 </div>
