@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-costa-barroso&layout=compact&langs_count=8&theme=dark"/>
 </div>
 <div>
-  <img align="center" alt="Davi-Java" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,vue,mongodb,mysql,java,py,c,arduino">
+  <img align="center" alt="Davi-Java" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,vue,mongodb,mysql,postgres,java,py,c,arduino">
 </div>        
  
           
